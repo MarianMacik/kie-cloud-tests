@@ -53,6 +53,7 @@
 
   <modules>
     <module>test-cloud-remote</module>
+    <module>test-cloud-performance</module>
   </modules>
 
   <build>
